@@ -13,7 +13,7 @@ I am now a Mphil student In The HongKong University Of Science And Technology.My
 Before coming HongKong, I studied in South China University Of Technology from 2017 to 2021 and worked as an software engineer in HSBC from 2021.
 <br/>
 <br/>
-                  <font color=red>My personal website is still in construction</font>
+                                                  <font color=red>My personal website is still in construction</font>
 <br/>
 <br/>
 (HKUST Sea Bay)
