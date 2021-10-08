@@ -16,9 +16,11 @@ Besides, I used to be a MEng student in [IIT](https://www.iit.edu/) for short te
 # Project
 <br />
 <br />
-<br />
-<br />
-<br />
+[2021] I am now working on a project about predicting the life-expectancy for lung cancer patients based on deep learning. I propose a new multi-task network and 
+gain 80% prediction accuracy. 
+
+
+r />
 <br />
 <br />
 ![HKUST](https://s3.bmp.ovh/imgs/2021/10/cc85a5d970d1609c.jpg)
