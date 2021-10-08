@@ -18,12 +18,3 @@ Before joining HkUST, I studied in South China University Of Technology from 201
 ![HKUST](https://s3.bmp.ovh/imgs/2021/10/cc85a5d970d1609c.jpg)
 (HKUST Sea Bay)
 
----
-permalink: /
-title: "Publication"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
