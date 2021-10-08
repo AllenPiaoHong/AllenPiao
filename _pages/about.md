@@ -14,17 +14,13 @@ Before joining HKUST, I studied in [South China University Of Technology](https:
 Besides, I used to be a MEng student in [IIT](https://www.iit.edu/) for short time study.
 
 # Project
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 ![HKUST](https://s3.bmp.ovh/imgs/2021/10/cc85a5d970d1609c.jpg)
 (HKUST Sea Bay)
 
