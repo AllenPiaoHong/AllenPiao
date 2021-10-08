@@ -13,7 +13,7 @@ I am now a Mphil student in [The HongKong University Of Science And Technology](
 Before joining HKUST, I studied in [South China University Of Technology](https://www.scut.edu.cn/en/) from 2017 to 2021 and worked as an software engineer in HSBC from 2021.
 Besides, I used to be a MEng student in [Illinois Institute of Technology](https://www.iit.edu/) for short time study.
 
-<br/>
+
 ![HKUST](https://s3.bmp.ovh/imgs/2021/10/cc85a5d970d1609c.jpg)
 (HKUST Sea Bay)
 
