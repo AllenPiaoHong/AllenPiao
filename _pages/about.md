@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<p style="text-align:justify:">Hi! I am Wang Piao Hong.I am now a Mphil student in [The HongKong University Of Science And Technology](https://hkust.edu.hk/zh-hans). My present research interest is solving medical problems with AI techniques.Before joining HKUST, I studied in [South China University Of Technology](https://www.scut.edu.cn/en/) from 2017 to 2021 and worked as a software engineer in [HSBC](https://www.hsbc.com/) from 2021.Besides, I used to be a MEng student in [Illinois Institute of Technology](https://www.iit.edu/) for short term study.</p>
+Hi! I am Wang Piao Hong.I am now a Mphil student in [The HongKong University Of Science And Technology](https://hkust.edu.hk/zh-hans). My present research interest is solving medical problems with AI techniques.Before joining HKUST, I studied in [South China University Of Technology](https://www.scut.edu.cn/en/) from 2017 to 2021 and worked as a software engineer in [HSBC](https://www.hsbc.com/) from 2021.Besides, I used to be a MEng student in [Illinois Institute of Technology](https://www.iit.edu/) for short term study.
 
 # Project
 <br />
