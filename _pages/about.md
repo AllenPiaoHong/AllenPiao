@@ -9,8 +9,8 @@ redirect_from:
 ---
 
 Hi! I am Wang Piao Hong.
-I am now a Mphil student in The HongKong University Of Science And Technology.My present research interest is solving medical problems with AI techniques.
-Before joining HkUST, I studied in [South China University Of Technology](https://www.scut.edu.cn/en/) from 2017 to 2021 and worked as an software engineer in HSBC from 2021.
+I am now a Mphil student in [The HongKong University Of Science And Technology](https://hkust.edu.hk/zh-hans). My present research interest is solving medical problems with AI techniques.
+Before joining HKUST, I studied in [South China University Of Technology](https://www.scut.edu.cn/en/) from 2017 to 2021 and worked as an software engineer in HSBC from 2021.
 <br/>
                                                  <center> <font color=red size=6>My personal website is still under construction</font></center>
 <br/>
