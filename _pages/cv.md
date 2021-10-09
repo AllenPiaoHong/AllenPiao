@@ -32,7 +32,7 @@ Skills
   * Java
   * C++
 * Electrical Engineering
-* Certified Cloud Engineer
+* Cloud Development
 
 
 
