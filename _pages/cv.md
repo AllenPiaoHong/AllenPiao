@@ -31,6 +31,7 @@ Skills
   * Java
   * C++
 * Electrical Engineering
+* Financial Management
 
 
 
