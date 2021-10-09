@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Fintech (Financial Computer Science), South China University Of Technology, 2021
+* Short-Term study in Software Engineering, Illinois Institute of Technology，2021
 * Mphil. in Electronic And Computer Engineering, HongKong University Of Science And Technology, 2023
 
 Work experience
