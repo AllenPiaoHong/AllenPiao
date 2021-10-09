@@ -11,7 +11,7 @@ redirect_from:
 Hi! I am Wang Piao Hong. I am now a Mphil student in [The HongKong University Of Science And Technology](https://hkust.edu.hk/zh-hans). My present research interest is solving medical problems with AI. Please check my CV to know more about me.
 
 
-# Project
+# Working Project
 [2021.10] I am working on a project about predicting the life-expectancy of lung cancer patients based on deep learning. I propose a new multi-task network and gain 80% accuracy. The project (Only Code) will be published in Github before December.
 
 # Contact
