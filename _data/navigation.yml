@@ -16,7 +16,7 @@ main:
 #     url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: "https://github.com/AllenPiaoHong/AllenPiao/blob/master/_pages/cv.md"
     
 #   - title: "Guides"
 #     url: /markdown/
