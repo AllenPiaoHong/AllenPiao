@@ -31,7 +31,7 @@ Skills
   * Java
   * C++
 * Electrical Engineering
-* Financial Management
+* Certified Cloud Engineer
 
 
 
