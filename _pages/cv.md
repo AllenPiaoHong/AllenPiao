@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Fintech (Financial Computer Science), South China University Of Technology, 2021
 * Short-Term study in Software Engineering, Illinois Institute of Technology，2021
-* Mphil. in Electronic And Computer Engineering, HongKong University Of Science And Technology, 2023(expected)
+* Mphil. in Electronic And Computer Engineering, HongKong University Of Science And Technology, 2023 (expected)
 
 Work experience
 ======
@@ -32,7 +32,7 @@ Skills
   * Java
   * C++
 * Electrical Engineering
-* Cloud Development
+* Cloud Development (Ali,GCP)
 
 
 
