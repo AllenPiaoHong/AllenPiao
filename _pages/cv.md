@@ -19,10 +19,8 @@ Education
 
 Academic Performance
 ======
-* Toefl: 85
-
 * Major Rank: 5/33  (Top 20% students in elite class can win postgraduate recommendation opportunity)
-
+* Overall GPA: 3.69/4.00 
 
 Work experience
 ======
