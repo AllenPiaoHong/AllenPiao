@@ -12,9 +12,17 @@ redirect_from:
 Education
 ======
 * B.Eng. in Electrical Engineering, South China University Of Technology, 2017-2019
-* B.S. in Fintech (Financial Computer Science), South China University Of Technology, 2019-2021
+* B.S. in Fintech (Financial Computer Science Elite Class, 33/6300), South China University Of Technology, 2019-2021
 * Short-Term study in Software Engineering, Illinois Institute of Technology，2021
 * Mphil. in Electronic And Computer Engineering, HongKong University Of Science And Technology, 2023 (expected)
+
+
+Academic Performance
+======
+Toefl: 85
+GPA: 3.69/4.00  
+Major Rank: 5/33  (Top 20% students in elite class can win postgraduate recommendation opportunity)
+
 
 Work experience
 ======
