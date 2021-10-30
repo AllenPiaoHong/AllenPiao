@@ -28,7 +28,7 @@ Work experience
   * HongKong ShangHai Bank Company
 
 * 2018-2019: Research Assistant
-  * South China University Of Technology
+  * High-tension Electricity Lab In South China University Of Technology
 
   
 Skills
