@@ -19,5 +19,5 @@ pwangar@connect.ust.hk
 <br />
 
 ![HKUST](https://s3.bmp.ovh/imgs/2021/10/837cc42b1e12cc34.jpg)
-<center>(Happy Coder's Day !)</center>
+<center>(My daily life in UST)</center>
 
