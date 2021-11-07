@@ -18,6 +18,6 @@ Hi! I am Wang Piao Hong. I am now a Mphil student in [The HongKong University Of
 pwangar@connect.ust.hk
 <br />
 
-![HKUST](https://s3.bmp.ovh/imgs/2021/10/837cc42b1e12cc34.jpg)
-<center>(My daily life in UST)</center>
+![](https://s3.bmp.ovh/imgs/2021/11/3f5895fbdfad96a3.jpg)
+<center>(We are the champions!!!!!!!!!!!!!)</center>
 
